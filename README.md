@@ -1,4 +1,4 @@
-# AULA-LINUX- 2/7/24 -(1/4)
+# AULA-LINUX- 7/2/24 -(1/4)
 
 Exercício 1: Criar um container com o Debian e que seja interativo, que dentro dele tenha o neofetch.
   COMANDOS:
